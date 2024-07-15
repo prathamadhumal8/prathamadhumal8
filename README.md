@@ -27,7 +27,7 @@ I am an MSc Data Science student at Symbiosis International (Deemed University).
 
 ## 📫 How to reach me
 
-- LinkedIn:(https://www.linkedin.com/in/prathama-dhumal ))
+- LinkedIn:(https://www.linkedin.com/in/prathama-dhumal )
 - Email: dhumalprathama44@gmail.com 
 
 Thankyou for Visiting!!!
